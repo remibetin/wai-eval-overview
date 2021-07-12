@@ -5,7 +5,7 @@ title: "Évaluer l'accessibilité Web - Vue d'ensemble"
 nav_title: "Vue d'ensemble de l'évaluation"
 
 lang: fr
-last_updated: 2021-05-16
+last_updated: 2021-07-12
 permalink: /test-evaluate/fr
 
 translators: 
@@ -181,11 +181,11 @@ _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Évaluer l'
       <th>Visuel</th>
     </tr>
     <tr>
-      <td>Évaluer l'accessibilité Web : vue d'ensemble des ressources</td>
+      <td>Évaluer l'accessibilité Web : vue d'ensemble des ressources.</td>
       <td>Évaluer l'accessibilité Web : vue d'ensemble des ressources.</td>
     </tr>
     <tr>
-       <td>L'évaluation permet de vous assurer que votre site Web répond aux exigences d'accessibilité.</td>
+       <td>L'évaluation permet de vous assurer que vos sites Web et vos applications répondent aux exigences d'accessibilité.</td>
       <td>Une loupe avec le mot "évaluation" apparaît sur un écran d'ordinateur qui affiche un site Web.</td>
     </tr>
     <tr>
@@ -197,7 +197,7 @@ _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Évaluer l'
       <td>Logos de W3C et de l'Initiative pour l'accessibilité du Web (WAI).</td>
     </tr>
     <tr>
-      <td>"Vérifications simples - Un premier bilan de l'accessibilité Web" explique comment vous pouvez faire certaines vérifications vous-mêmes.</td>
+      <td>"Vérifications simples - Un première vérification de l'accessibilité Web" explique comment vous pouvez faire certaines vérifications vous-mêmes.</td>
       <td>"Vérifications simples - Un premier bilan de l'accessibilité Web". Une personne se trouve en face de l'ordinateur. Une ampoule apparaît.</td>
     </tr>
     <tr>
@@ -209,11 +209,11 @@ _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Évaluer l'
       <td>Une liste des outils d'évaluation de l'accessibilité Web apparaît. Une liste d'outils sous forme d'icônes apparaît.</td>
     </tr>
     <tr>
-      <td>"Sélectionner des outils d'évaluation de l'accessibilité Web" explique ce qu'un outil peut et ne peut pas faire.</td>
+      <td>"Sélectionner des outils d'évaluation de l'accessibilité Web" explique ce que les outils peuvent et ne peuvent pas faire.</td>
       <td>Sélectionner des outils d'évaluation de l'accessibilité Web. Les icônes représentant les outils s'affichent sur un ordinateur.</td>
     </tr>
     <tr>
-      <td>Pour les évaluateurs plus expérimentés, WAI fournit "WCAG-EM", la méthodologie d'évaluation de la conformité à l'accessibilité Web.</td>
+      <td>Pour les personnes plus expérimentées dans l'évaluation, WAI fournit "WCAG-EM", la méthodologie d'évaluation de la conformité à l'accessibilité Web.</td>
       <td>WCAG-EM. Méthodologie d'évaluation de la conformité à l'accessibilité Web. Une personne se trouve en face d'un ordinateur. Un rapport simplifié s'affiche sur l'écran.</td>
     </tr>
     <tr>
@@ -221,7 +221,7 @@ _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Évaluer l'
       <td>Outil de création de rapports WCAG-EM. Une barre de progression montre les différentes étapes de la méthodologie d'évaluation.</td>
     </tr>
     <tr>
-      <td>Pour vous aider à mieux comprendre comment les différents utilisateurs naviguent sur votre site Web, WAI fournit des conseils dans "Impliquer les utilisateurs dans les projets de développement Web pour une accessibilité plus optimale et plus facile" et "Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web".</td>
+      <td>Pour vous aider à mieux comprendre comment différentes personnes utilisent vos sites et applications, WAI fournit des conseils dans "Impliquer des personnes utilisant des projets web pour une accessibilité plus optimale et plus facile" et "Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web".</td>
       <td>L'écran se divise en 12 parties sur chacune desquelles un utilisateur différent est face à un ordinateur. Impliquer des utilisateurs dans les projets Web pour une accessibilité plus optimale et plus facile et Impliquer des utilisateurs dans l'évaluation de l'accessibilité Web.</td>
     </tr>
     <tr>
@@ -229,7 +229,7 @@ _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Évaluer l'
       <td>Une loupe qui montre les mots "vérification de l'accessibilité" est remplacée par une liste de problèmes.</td>
     </tr>
     <tr>
-      <td>Accessibilité Web : essentielle pour certains, utile à tous.</td>
+      <td>L'accessibilité du Web : essentielle pour certains, utile à tous.</td>
       <td>Des icônes autour d'un ordinateur s'affichent : une main ; un œil ; un cerveau ; une oreille ; et une bouche avec des ondes sonores.</td>
     </tr>
     <tr>
